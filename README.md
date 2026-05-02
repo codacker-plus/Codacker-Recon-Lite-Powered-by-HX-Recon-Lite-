@@ -36,6 +36,6 @@ Target
 ## Installation
 
 ```bash
-git clone https://github.com/YOURUSERNAME/codacker-recon-lite.git
+git clone https://github.com/codacker-plus/codacker-recon-lite.git
 cd codacker-recon-lite
 pip install -r requirements.txt
